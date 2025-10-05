@@ -47,6 +47,4 @@ The main goal was to automate and validate selected test cases (1, 2, 3, 4, 5, a
 -C-onfigured Maven for dependency management and project setup.
 -Executed tests, debugged failures, and generated automation reports..  
 
-
-
 ---
